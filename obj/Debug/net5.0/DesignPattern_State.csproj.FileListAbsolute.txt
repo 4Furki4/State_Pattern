@@ -1,0 +1,16 @@
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\bin\Debug\net5.0\DesignPattern_State.exe
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\bin\Debug\net5.0\DesignPattern_State.deps.json
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\bin\Debug\net5.0\DesignPattern_State.runtimeconfig.json
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\bin\Debug\net5.0\DesignPattern_State.runtimeconfig.dev.json
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\bin\Debug\net5.0\DesignPattern_State.dll
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\bin\Debug\net5.0\DesignPattern_State.pdb
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\obj\Debug\net5.0\DesignPattern_State.csproj.AssemblyReference.cache
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\obj\Debug\net5.0\DesignPattern_State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\obj\Debug\net5.0\DesignPattern_State.AssemblyInfoInputs.cache
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\obj\Debug\net5.0\DesignPattern_State.AssemblyInfo.cs
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\obj\Debug\net5.0\DesignPattern_State.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\obj\Debug\net5.0\DesignPattern_State.dll
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\obj\Debug\net5.0\refint\DesignPattern_State.dll
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\obj\Debug\net5.0\DesignPattern_State.pdb
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\obj\Debug\net5.0\DesignPattern_State.genruntimeconfig.cache
+C:\Users\Furkan Cengiz\Desktop\Yazılım\Projeler\DesignPattern_State\obj\Debug\net5.0\ref\DesignPattern_State.dll
